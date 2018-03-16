@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "rainbowerRainByCanvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songxingguo/canvas-rainbowRain.git"
+  },
+  "keywords": [
+    "songxingguo"
+  ],
+  "author": "songxingguo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/songxingguo/canvas-rainbowRain/issues"
+  },
+  "homepage": "https://github.com/songxingguo/canvas-rainbowRain#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
